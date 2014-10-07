@@ -9,6 +9,9 @@
 /log/*.log
 /tmp
 
+#ignore database.yml
+/config/database.yml
+
 # Ignore other unneeded files.
 database.yml
 doc/
